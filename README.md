@@ -4,7 +4,7 @@ If you find the material here interesting and want to learn more about machine l
 - for programmers who are beginners in the area and don't object to Python, [this Github repo](https://github.com/hangtwenty/dive-into-machine-learning) is an amazing collection of tutorials, blog posts, and Jupyter notebooks.
 - for programmers with a bit more experience, or who prefer to use a non-Python language, [this repo](https://github.com/josephmisiti/awesome-machine-learning) has a list of ML resources by language and application area.
 - if you're a designer and want some ideas about how to work with systems that use machine learning, [this blog post](https://medium.com/@girardin/experience-design-in-the-machine-learning-era-e16c87f4f2e2) is a great starting point.
-- Lassi Liikkanen has written [another great article](https://www.smashingmagazine.com/2017/04/applications-machine-learning-designers/) about machine learning for designers, including some suggested design patterns for interfaces packed by machine learning algorithms.
+- Lassi Liikkanen has written [another great article](https://www.smashingmagazine.com/2017/04/applications-machine-learning-designers/) about machine learning for designers, including some suggested design patterns for interfaces backed by machine learning algorithms.
 - if you just want to read more about some of the history and popular uses of machine learning, [The Master Algorithm](https://www.amazon.co.uk/dp/B0147SEZ92/) by Pedro Domingos is (afaik) the only popular science book on the topic. Luckily, it's a good read.
 
 ### Talk History
