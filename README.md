@@ -14,5 +14,5 @@ If you find the material here interesting and want to learn more about machine l
 ### Talk History
 20/4/17 Futurice London Beer & Tech  
 27/6/17 Brave New World, AI Applied @ Futurice Munich  
-28/6/17 Futurice Munich Beer & Tech ([Video](https://vimeo.com/234644887))
+28/6/17 Futurice Munich Beer & Tech ([Video](https://vimeo.com/234644887))  
 23/10/17 Brave New World, AI Applied @ Epicenter Stockholm ([Video](https://youtu.be/JBQDPrkzEiE?t=1h35m27s))
